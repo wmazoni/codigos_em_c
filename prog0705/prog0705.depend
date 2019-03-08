@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552006287 source:/home/darkspiders/Documentos/codigos/codigos_em_c/prog0705/main.c
+	<stdio.h>
+	<stdlib.h>
+

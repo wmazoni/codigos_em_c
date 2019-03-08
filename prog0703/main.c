@@ -1,9 +1,9 @@
 #include <stdio.h>
 
- main()
+ int main()
 {
     char Nome[50];
     printf("Introduza o Nome Completo: ");
-    gets(Nome);
+    fgets(Nome, sizeof(Name), stdin);
     printf("Nome Completo: %s\n",Nome);
 }
