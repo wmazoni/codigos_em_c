@@ -6,7 +6,7 @@ int main()
     while (1)   /* Laco infinito */
     {
         puts("Nome:");
-        fgets(Nome, 100, stdin);
+        gets(Nome);
         if (Nome[0]=='\0')  /* Se a string estiver vazia */
             break;          /* Terminar o laco */
         else
