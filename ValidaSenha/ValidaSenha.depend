@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554425429 source:c:\users\wmazo\documents\validasenha\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554435692 source:c:\users\wmazo\documents\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
